@@ -1,0 +1,19 @@
+{
+  "name": "rcv",
+  "version": "1.0.0",
+  "description": "ranked choice voting algorithm tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsautter/rcv.git"
+  },
+  "author": "Scott Sautter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdsautter/rcv/issues"
+  },
+  "homepage": "https://github.com/sdsautter/rcv#readme"
+}
